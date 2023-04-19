@@ -9,6 +9,9 @@
       "ios"
     ]
   },
+  "scripts": {
+    "test": ""
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/admost/AMR-CORDOVA-PLUGIN.git"
