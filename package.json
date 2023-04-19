@@ -1,10 +1,10 @@
 {
   "name": "@blockgain/hexa-amr",
   "main": "www/Amr.js",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "scripts": {
     "test": "",
-    "deploy": "gh release create 0.1.1 --notes 'secrutiy'"
+    "deploy": "gh release create 0.1.2 --notes 'secrutiy'"
   },
   "description": "Admost Mediation Router plugin.",
   "cordova": {
