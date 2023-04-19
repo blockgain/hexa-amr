@@ -1,10 +1,10 @@
 {
   "name": "@blockgain/hexa-amr",
   "main": "www/Amr.js",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "scripts": {
     "test": "",
-    "deploy": "gh release create 0.1.4 --notes 'secrutiy'"
+    "deploy": "gh release create 0.1.5 --notes 'secrutiy'"
   },
   "description": "Admost Mediation Router plugin.",
   "cordova": {
@@ -43,12 +43,6 @@
     "ecosystem:cordova",
     "cordova-android",
     "cordova-ios"
-  ],
-  "engines": [
-    {
-      "name": "cordova",
-      "version": ">=8.0.0"
-    }
   ],
   "author": "Kokteyl",
   "license": "ISC",
