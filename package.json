@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-amr",
+  "name": "hexa-amr",
   "version": "1.2.8",
   "description": "Admost Mediation Router plugin.",
   "cordova": {
