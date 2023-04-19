@@ -495,12 +495,17 @@
                 <source url="https://cdn.cocoapods.org/"/>
             </config>
             <pods>
-                <pod name="AMRAdapterAdmob" spec="~> 9.12" />
-                <pod name="AMRAdapterAdmost" spec="~> 1.6" />
-                <pod name="AMRAdapterApplovin" spec="~> 11.5" />
-                <pod name="AMRAdapterFacebook" spec="~> 6.12" />
-                <pod name="AMRAdapterIronsource" spec="~> 7.2" />
-                <pod name="AMRAdapterUnity" spec="~> 4.4" />
+                <framework src="AMRAdapterAdmob" type="podspec" spec="~> 9.5" />
+                <framework src="AMRAdapterAdmost" type="podspec" spec="~> 1.6" />
+                <framework src="AMRAdapterApplovin" type="podspec" spec="~> 11.4" />
+                <framework src="AMRAdapterFacebook" type="podspec" spec="~> 6.11" />
+                <framework src="AMRAdapterFyber" type="podspec" spec="~> 8.1" />
+                <framework src="AMRAdapterIronsource" type="podspec" spec="~> 7.2" />
+                <framework src="AMRAdapterMintegral" type="podspec" spec="~> 7.1" />
+                <framework src="AMRAdapterTiktok" type="podspec" spec="~> 4.5" />
+                <framework src="AMRAdapterUnity" type="podspec" spec="~> 4.2" />
+                <framework src="AMRAdapterVungle" type="podspec" spec="~> 6.10" />
+                <framework src="AMRAdapterInmobi" type="podspec" spec="~> 10.0" />
             </pods>
         </podspec>
     </platform>
