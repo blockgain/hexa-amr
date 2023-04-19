@@ -1,5 +1,5 @@
 {
-  "name": "hexa-amr",
+  "name": "@blockgain/hexa-amr",
   "main": "www/Amr.js",
   "version": "0.1.1",
   "scripts": {
